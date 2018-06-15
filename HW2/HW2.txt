@@ -1,0 +1,21 @@
+   HW assignment 2
+1. Include a section with your name
+2. Create matrix A with size (3,5) containing random numbers A = np.random.random(15)
+3. Find the size and length of matrix A
+4. Resize (crop/slice) matrix A to size (3,4)
+5. Find the transpose of matrix A and assign it to B
+6. Find the minimum value in column 1 of matrix B (check the properties of a matrix – ‘B.min()’)
+7. Find the minimum and maximum values for the entire matrix A
+8. Create vector X (an array) with 4 random numbers
+9. Create a function and pass vector X and matrix A in it
+10. In the new function multiply vector X with matrix A and assign the result to D
+    (note: you may get an error! ... think why and fix it. Recall matric manipulation in class!)
+11. Create a complex number Z with absolute and real parts != 0
+12. Show its real and imaginary parts as well as it’s absolute value
+13. Multiply result D with the absolute value of Z and record it to C
+14. Convert matrix B from a matrix to a string and overwrite B
+15. Display a text on the screen: ‘Your Name is done with HW2‘
+16. Organize your code: use each line from this assignment as a comment line before each step
+17. Save all steps as a script in a .py file
+18. Email your Github link to me including your .py file +
+    screenshots of your running code no later than midnight on Saturday Jun.09.
